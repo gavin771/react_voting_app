@@ -18,3 +18,5 @@ npm start
 
 The server is now running at [localhost:3000](localhost:3000)
 
+### Screenshot
+![Screenshot Image](/public/images/screenshot.png?raw=true "Optional Title")
